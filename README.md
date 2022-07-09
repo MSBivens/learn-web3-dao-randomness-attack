@@ -1,13 +1,22 @@
-# Sample Hardhat Project
+# Randomness Attack
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+Created as part of the [Learn Web3 DAO](https://www.learnweb3.io/) Senior Track.
 
-Try running some of the following tasks:
+This code was written for Level 6: Randomness Attack
 
-```shell
-npx hardhat help
-npx hardhat test
-GAS_REPORT=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.js
-```
+Public tutorial not available at the time of this writing.
+
+This project creates and tests a contract to demonstrate randomness vulnerability.
+
+## Overview Info
+
+Languages: Solidity, JavaScript
+
+## This tutorial covers:
+
+- Hardhat
+- Randomness + Attacks
+
+## Technology/Websites used:
+
+- [Hardhat](https://hardhat.org/)
